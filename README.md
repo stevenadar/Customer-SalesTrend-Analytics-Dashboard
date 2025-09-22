@@ -1,5 +1,5 @@
 
-📌 Project Summary:
+#📌 Project Summary:
 
 This project presents an interactive Power BI dashboard that analyzes customer shopping trends rather than just raw sales. It highlights customer behavior, preferences, and contributions across different demographics, geographies, and product categories.
 
@@ -16,7 +16,7 @@ Top Category: Electronics
 The dashboard empowers businesses to understand their customers better, optimize marketing, improve inventory planning, and design data-driven growth strategies.
 
 
-🎯 Problem Statement:
+#🎯 Problem Statement:
 
 Retailers and businesses often collect large amounts of transactional sales data, but lack visibility into customer-centric insights such as:
 
@@ -32,7 +32,7 @@ Without customer-focused analytics, businesses risk missing growth opportunities
 
 
 
-🛠️ Approach & Methodology:
+#🛠️ Approach & Methodology:
 🔹 Data Preparation
 
 1)Removed duplicates and handled missing/null values.
@@ -66,7 +66,7 @@ Without customer-focused analytics, businesses risk missing growth opportunities
 
 
 
-📊 Key Customer Insights:
+#📊 Key Customer Insights:
 
 1)Customer Value: Avg sales per customer ~5.13K, with clear high-value segments.
 
@@ -84,7 +84,7 @@ Without customer-focused analytics, businesses risk missing growth opportunities
 
 
 
-✅ Conclusion
+#✅ Conclusion
 
 The dashboard reveals actionable customer trends that can drive strategic business decisions:
 
@@ -102,7 +102,7 @@ By shifting analysis from sales totals → customer-centric insights, this proje
 
 
 
-⚙️ Tech Stack
+#⚙️ Tech Stack
 
 Power BI – Dashboard creation, DAX calculations, visuals
 

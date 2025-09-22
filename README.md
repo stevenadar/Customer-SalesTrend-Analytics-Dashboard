@@ -33,14 +33,14 @@ Without customer-focused analytics, businesses risk missing growth opportunities
 
 
 # 🛠️ Approach & Methodology:
-🔹 Data Preparation
+##  🔹 Data Preparation
 
 1)Removed duplicates and handled missing/null values.
 
 2)Standardized categorical fields (region, store, categories).
 
 
-🔹 Transformations
+##🔹 Transformations
 
 1)Created customer-level metrics (avg spend, frequency, recency, tenure).
 
@@ -48,7 +48,7 @@ Without customer-focused analytics, businesses risk missing growth opportunities
 
 3)Segmented customers into value groups for targeting.
 
-🔹 Data Modeling (Star Schema)
+##🔹 Data Modeling (Star Schema)
 
 1)Fact Table: Sales transactions (CustomerID, ProductID, StoreID, Date, SalesAmount).
 
@@ -56,7 +56,7 @@ Without customer-focused analytics, businesses risk missing growth opportunities
 
 3)Optimized for performance and clarity in reporting.
 
-🔹 Tools & Techniques
+##🔹 Tools & Techniques
 
 1)SQL/Python → ETL & cleaning
 
@@ -104,11 +104,11 @@ By shifting analysis from sales totals → customer-centric insights, this proje
 
 # ⚙️ Tech Stack
 
-Power BI – Dashboard creation, DAX calculations, visuals
+1)Power BI – Dashboard creation, DAX calculations, visuals
 
-SQL – Data extraction, cleaning, transformations
+2)SQL – Data extraction, cleaning, transformations
 
-Python (Pandas/Numpy) – Preprocessing & feature engineering
+3)Python (Pandas/Numpy) – Preprocessing & feature engineering
 
-Star Schema Data Modeling – Optimized structure for analytics
+4)Star Schema Data Modeling – Optimized structure for analytics
 

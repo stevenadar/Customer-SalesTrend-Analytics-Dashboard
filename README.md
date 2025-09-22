@@ -20,13 +20,13 @@ The dashboard empowers businesses to understand their customers better, optimize
 
 Retailers and businesses often collect large amounts of transactional sales data, but lack visibility into customer-centric insights such as:
 
-Which customer groups contribute most to revenue?
+1)Which customer groups contribute most to revenue?
 
-How does average spend vary by product, region, or demographics?
+2)How does average spend vary by product, region, or demographics?
 
-Which stores/managers drive stronger customer sales?
+3)Which stores/managers drive stronger customer sales?
 
-What seasonal or yearly purchase trends exist?
+4)What seasonal or yearly purchase trends exist?
 
 Without customer-focused analytics, businesses risk missing growth opportunities, inefficient marketing, and poor resource allocation.
 
@@ -35,53 +35,52 @@ Without customer-focused analytics, businesses risk missing growth opportunities
 🛠️ Approach & Methodology:
 🔹 Data Preparation
 
-Removed duplicates and handled missing/null values.
+1)Removed duplicates and handled missing/null values.
 
-Standardized categorical fields (region, store, categories).
+2)Standardized categorical fields (region, store, categories).
 
-Imputed/flagged missing demographics for accuracy.
 
 🔹 Transformations
 
-Created customer-level metrics (avg spend, frequency, recency, tenure).
+1)Created customer-level metrics (avg spend, frequency, recency, tenure).
 
-Built date hierarchies for monthly, quarterly, yearly analysis.
+2)Built date hierarchies for monthly, quarterly, yearly analysis.
 
-Segmented customers into value groups for targeting.
+3)Segmented customers into value groups for targeting.
 
 🔹 Data Modeling (Star Schema)
 
-Fact Table: Sales transactions (CustomerID, ProductID, StoreID, Date, SalesAmount).
+1)Fact Table: Sales transactions (CustomerID, ProductID, StoreID, Date, SalesAmount).
 
-Dimension Tables: Customer, Product, Store/Manager, Date.
+2)Dimension Tables: Customer, Product, Store/Manager, Date.
 
-Optimized for performance and clarity in reporting.
+3)Optimized for performance and clarity in reporting.
 
 🔹 Tools & Techniques
 
-SQL/Python → ETL & cleaning
+1)SQL/Python → ETL & cleaning
 
-Power BI → Visualization & DAX measures
+2)Power BI → Visualization & DAX measures
 
-Star Schema → Structured modeling for efficient reporting
+3)Star Schema → Structured modeling for efficient reporting
 
 
 
 📊 Key Customer Insights:
 
-Customer Value: Avg sales per customer ~5.13K, with clear high-value segments.
+1)Customer Value: Avg sales per customer ~5.13K, with clear high-value segments.
 
-Top Category: Electronics dominates customer spending across regions.
+2)Top Category: Electronics dominates customer spending across regions.
 
-Geography: Cities like Jeffreyborough & South David contribute highest per-customer sales (~15K each).
+3)Geography: Cities like Jeffreyborough & South David contribute highest per-customer sales (~15K each).
 
-Demographics: Gender split balanced → Female (53.29%), Male (46.71%).
+4)Demographics: Gender split balanced → Female (53.29%), Male (46.71%).
 
-Manager/Store Impact: Barbara Riggs leads with ~63K sales, showing strong influence on customer trends.
+5)Manager/Store Impact: Barbara Riggs leads with ~63K sales, showing strong influence on customer trends.
 
-Seasonality: Monthly peaks in April & September, reflecting seasonal buying behavior.
+6)Seasonality: Monthly peaks in April & September, reflecting seasonal buying behavior.
 
-Growth Over Time: Strong uplift from 2022 → 2023, with steady customer sales into 2024.
+7)Growth Over Time: Strong uplift from 2022 → 2023, with steady customer sales into 2024.
 
 
 
@@ -89,15 +88,15 @@ Growth Over Time: Strong uplift from 2022 → 2023, with steady customer sales i
 
 The dashboard reveals actionable customer trends that can drive strategic business decisions:
 
-Prioritize high-value customers with personalized offers.
+1)Prioritize high-value customers with personalized offers.
 
-Optimize inventory around categories with high per-customer demand.
+2)Optimize inventory around categories with high per-customer demand.
 
-Focus marketing efforts on high-contributing cities and customer segments.
+3)Focus marketing efforts on high-contributing cities and customer segments.
 
-Learn from high-performing managers/stores and replicate successful practices.
+4)Learn from high-performing managers/stores and replicate successful practices.
 
-Plan promotions around peak seasonal months to maximize revenue.
+5)Plan promotions around peak seasonal months to maximize revenue.
 
 By shifting analysis from sales totals → customer-centric insights, this project demonstrates how businesses can unlock deeper understanding and long-term growth opportunities.
 

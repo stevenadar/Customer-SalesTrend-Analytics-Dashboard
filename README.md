@@ -56,7 +56,7 @@ Without customer-focused analytics, businesses risk missing growth opportunities
 
 3)Optimized for performance and clarity in reporting.
 
-##🔹 Tools & Techniques
+🔹 Tools & Techniques
 
 1)SQL/Python → ETL & cleaning
 

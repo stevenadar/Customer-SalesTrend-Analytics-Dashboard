@@ -1,0 +1,101 @@
+StoreID,StoreName,Location,Manager,OpenDate,Employees
+1,MegaMart West Devin,West Teresa,Samuel Vega,2021-03-29,22
+2,MegaMart Deleonstad,East Sarah,Scott Sparks,2024-10-30,77
+3,MegaMart Meyertown,Levineborough,Meagan Holmes,2024-12-06,83
+4,MegaMart North Adambury,Greenchester,Michelle Meyer,2021-08-27,38
+5,MegaMart West Billy,Hardyside,Brenda Morales,2025-02-11,49
+6,MegaMart South Crystalhaven,Joneshaven,Matthew Wong,2021-03-30,26
+7,MegaMart Lauraborough,East Eric,Jennifer Booker,2020-12-26,50
+8,MegaMart Randyborough,North Michelle,Jeffrey Walker,2021-12-22,98
+9,MegaMart Penningtontown,East Michaelside,James Miller,2022-03-12,23
+10,MegaMart Julieburgh,North Christopher,Whitney Carter,2022-09-06,68
+11,MegaMart Whiteshire,Timothyton,Christopher Barron,2022-09-18,70
+12,MegaMart Evanberg,North Jenniferberg,Kristin Conway,2021-10-08,58
+13,MegaMart New Jacquelineside,New Paulberg,Katherine Williams,2020-11-30,41
+14,MegaMart Jessicabury,New Mary,Paul Alvarez,2024-06-17,52
+15,MegaMart Jaredborough,New Sarahhaven,Andrea Thompson,2021-05-28,33
+16,MegaMart Abigailland,South Eddie,Olivia Galloway,2022-03-18,21
+17,MegaMart Jimenezland,Jeannemouth,Rebecca Jones,2022-10-24,57
+18,MegaMart Michellemouth,Amandafort,Edward Jackson,2022-05-16,20
+19,MegaMart Vincentburgh,Robinsonshire,Stacie Stevens,2021-10-19,45
+20,MegaMart Jessicatown,Curtisport,Robert Dominguez,2021-08-14,98
+21,MegaMart West Daisyland,Laurenborough,Emily Chen,2024-04-17,80
+22,MegaMart West Patricia,Ashleymouth,Kim Ryan,2025-03-16,19
+23,MegaMart Kristentown,Williamstad,Kristin Wallace,2022-11-21,36
+24,MegaMart Hilltown,Michelestad,Kevin Schmidt,2022-04-16,28
+25,MegaMart Hamptonborough,Gonzalezburgh,Michael Hart,2022-09-16,66
+26,MegaMart Khanberg,Kingborough,Christopher Wagner,2021-03-05,50
+27,MegaMart New Audrey,Port Thomashaven,Ms. Tara Dunn,2022-11-03,36
+28,MegaMart West Kimberlyfort,Brendaborough,Marissa Henry,2020-09-25,65
+29,MegaMart Lake Felicia,New Jeffreymouth,Eric Reyes,2023-08-12,19
+30,MegaMart West Michaelchester,South Kyleville,Travis Yoder,2024-02-10,38
+31,MegaMart Parkerstad,Mendozamouth,Dennis Salas,2021-12-03,17
+32,MegaMart West Adamfort,North Rachel,Erica Wood,2024-01-31,75
+33,MegaMart Martinmouth,Alyssaton,Gregory Wright,2022-04-30,87
+34,MegaMart East Christopherstad,South Tammybury,Julie Mora,2025-04-18,70
+35,MegaMart East Christopherburgh,Jaredhaven,Emily Hull,2021-11-05,52
+36,MegaMart Boltonport,New Tiffanyfurt,Christine Morgan,2024-09-07,16
+37,MegaMart North Toddport,West Lisa,John Schwartz,2024-09-15,40
+38,MegaMart North Anthonytown,Stephaniefurt,Nathaniel Wright,2022-01-16,18
+39,MegaMart Lake Jeremy,South Lisa,Michael Hodge,2021-03-13,66
+40,MegaMart Andrewhaven,East Briannatown,Eric Flores,2024-02-06,62
+41,MegaMart Sarahview,North Nicholas,Sarah Miller,2021-10-08,73
+42,MegaMart Deborahhaven,New Andrea,James Gross,2021-10-16,48
+43,MegaMart Gilmoreview,Marychester,Cindy Grant DVM,2022-12-08,96
+44,MegaMart Lake Williamfort,Jacobport,Sylvia Burns,2024-07-21,71
+45,MegaMart Gonzalezfurt,West Christopherburgh,Joseph Butler,2022-06-13,43
+46,MegaMart Lake Emilyton,North Jenniferburgh,Jennifer Rogers,2022-04-03,36
+47,MegaMart West Michaelmouth,North Hunter,Travis Garcia,2020-12-04,49
+48,MegaMart Stefaniemouth,Isabelbury,Megan Morgan,2024-06-11,94
+49,MegaMart Lake Nicholas,Tracyfurt,Traci Arellano,2023-09-12,52
+50,MegaMart Troytown,Dixonburgh,Brittany Jordan,2020-12-02,47
+51,MegaMart East Jonathan,Colinville,Jessica Smith,2022-09-21,49
+52,MegaMart Stokesshire,South Troy,Jenny Thomas,2025-04-05,89
+53,MegaMart Christineport,Stephanieside,Shirley Russo,2024-04-12,73
+54,MegaMart South Williamshire,East Mark,Crystal Kennedy,2021-04-12,11
+55,MegaMart Olsonhaven,Troyborough,Debbie Harris,2021-03-17,79
+56,MegaMart Shawmouth,West Jeffrey,Susan Bush,2023-01-08,67
+57,MegaMart Richardfurt,Lake Christopherville,Bryan Wright,2021-12-17,92
+58,MegaMart Cherylfort,Susanshire,Daniel Sawyer,2023-08-26,100
+59,MegaMart North Michaelchester,Port Brentborough,Mary Finley,2022-09-06,61
+60,MegaMart West Patrickburgh,Gailport,Alexander Gay,2024-09-20,45
+61,MegaMart South Brandon,Butlerview,Matthew Hamilton,2023-04-06,29
+62,MegaMart Michaelberg,Lake Georgeton,Jacob Stokes,2024-02-25,15
+63,MegaMart New Aprilville,Lake Brianstad,Savannah Keller,2022-12-28,61
+64,MegaMart Teresaton,West Danielle,Jay Smith,2021-02-26,36
+65,MegaMart North Tammyland,New Kimberlyfort,William Ford,2024-12-03,19
+66,MegaMart South Whitneychester,South Johnny,Wendy Keith,2021-08-16,73
+67,MegaMart Lake Jacobchester,Jeffreyhaven,James Butler,2024-12-16,69
+68,MegaMart Andrewhaven,West Seanhaven,Carl Buck,2022-08-30,14
+69,MegaMart Johnhaven,Mooreshire,Michael Bryan,2021-11-01,82
+70,MegaMart Willisview,East Abigail,Justin Salazar,2022-07-02,73
+71,MegaMart Taylorbury,Lake Raymond,Catherine Weaver,2025-07-02,22
+72,MegaMart Simmonshaven,Port Kevinside,Stephen Alvarez,2024-09-03,43
+73,MegaMart North Shellyport,Port Martin,James Robinson,2021-11-09,98
+74,MegaMart Bryanshire,Smithborough,Lisa Green,2023-06-19,75
+75,MegaMart West Haleyburgh,Ryanview,Cameron King,2024-05-06,31
+76,MegaMart West Benjamin,East Mark,Jeanne Snyder,2025-07-30,70
+77,MegaMart Lake Kellyton,Brentport,Deanna Cole,2023-10-25,27
+78,MegaMart Taylorburgh,Port Christinamouth,Michelle Price,2023-01-30,71
+79,MegaMart Hayesburgh,West Kathleenburgh,Connor Tate,2021-09-26,70
+80,MegaMart Whitechester,Suzanneton,Michael Miller,2021-02-17,51
+81,MegaMart North Garyton,Cookshire,Rachael Castillo,2024-11-06,63
+82,MegaMart Lake Mary,Janetown,Kyle Ross,2023-12-13,50
+83,MegaMart Lake Johnhaven,Anthonyside,Nicholas Palmer,2024-08-21,26
+84,MegaMart Ferrellmouth,West Kyle,Sonya Cooper,2023-02-24,75
+85,MegaMart East Davidside,Jaredland,Nicholas Lopez,2020-10-31,76
+86,MegaMart Lake Sandraborough,North Cindyton,Richard Yoder,2021-02-21,19
+87,MegaMart West Daniel,Kimville,Johnny Hatfield,2024-12-26,70
+88,MegaMart Ashleyview,East Adamfort,Robert Duncan,2020-10-25,22
+89,MegaMart Zacharyfort,South Kimberly,John Morrow,2023-04-16,72
+90,MegaMart Andersenborough,South Samanthaview,Bradley Graham,2021-02-18,23
+91,MegaMart Kingtown,West Brenda,Jamie Hickman,2025-04-25,25
+92,MegaMart Curtisside,Cherryhaven,Calvin Jones,2025-06-03,51
+93,MegaMart New Stephanieton,New Davidhaven,David Chan,2022-07-20,17
+94,MegaMart South Benjaminside,New Jacob,Melinda Carter,2024-09-26,74
+95,MegaMart New Jamesmouth,East Haley,Jennifer Young,2022-08-09,10
+96,MegaMart Matthewmouth,Fryefort,Patricia Smith,2024-04-27,89
+97,MegaMart Murphyshire,West Sandra,Dr. Jacob Patterson,2022-05-03,93
+98,MegaMart West Geoffreystad,Jessicaside,David Reed,2022-03-05,61
+99,MegaMart Robinview,Lake Natashaview,Christopher Mayo,2023-12-12,95
+100,MegaMart Brooksbury,North Patriciafort,Kristina Erickson,2021-02-20,77

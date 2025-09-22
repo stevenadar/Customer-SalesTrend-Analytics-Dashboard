@@ -1,0 +1,101 @@
+CustomerID,FirstName,LastName,Email,Phone,Gender,Age,City,State,Country,LoyaltyScore
+1,Joseph,Hart,contreraselizabeth@holt.net,299-616-5484x7838,M,42,Montoyaton,Wisconsin,French Guiana,
+2,Sue,Foster,krystalreed@skinner-fleming.com,001-626-141-0170x53874,M,64,North Kristen,Louisiana,Saint Vincent and the Grenadines,62.0
+3,Elizabeth,Henry,kstewart@williamson-myers.com,979.047.7286x2588,F,51,Martinezville,Louisiana,Reunion,96.0
+4,Robert,Rollins,gabrielmurray@gross.biz,001-462-537-9649x158,F,63,Jonathanmouth,South Carolina,Faroe Islands,
+5,Anthony,Hernandez,zacharymckenzie@morris.org,(106)549-9657,M,35,Port Alyssa,California,Wallis and Futuna,56.0
+6,Michele,Kim,moralesdaniel@yahoo.com,919.717.7626,F,19,New Davidberg,Illinois,Panama,
+7,Ann,Turner,alvarezhannah@garcia-mcdonald.info,(064)646-3061x920,F,51,Port Tylerberg,South Dakota,Honduras,
+8,Pamela,Gibson,asmith@gmail.com,(586)158-7523,M,37,Edwardsbury,Washington,Isle of Man,75.0
+9,Kristina,Wells,brookssherri@montoya.com,694-356-2909,M,54,Jessicastad,New York,Congo,
+10,Robert,Moore,melaniechen@yahoo.com,691.964.1250,M,23,Mccarthyborough,Ohio,Nigeria,
+11,Elizabeth,Lee,sharon14@johnson.info,+1-158-426-0218x590,M,23,Watsonfort,Louisiana,French Polynesia,
+12,Todd,Harper,aguirredonald@miller-marquez.org,001-166-188-3174x34819,M,46,North Sarahburgh,California,New Caledonia,52.0
+13,Scott,Lopez,hillnatalie@gmail.com,(255)815-4905x601,M,28,West Arieltown,North Dakota,India,
+14,Daniel,Whitney,sandra11@molina.com,680.077.0043x850,F,37,Richardfort,North Carolina,Spain,89.0
+15,Kathryn,Avery,,067.470.2780,M,34,North Cassandraview,Idaho,New Caledonia,98.0
+16,Jennifer,Lee,ksellers@zamora.org,9231667355,F,48,East Victoria,Maine,Lesotho,40.0
+17,Christian,Ford,jacksonjohnathan@yahoo.com,(931)509-0141x1217,F,45,Mitchellfort,Mississippi,Cameroon,53.0
+18,Jessica,Brown,austinbruce@waters-morrow.com,001-167-986-1903x3076,F,32,Alvarezfort,California,New Caledonia,96.0
+19,Mary,Winters,jasmine39@gmail.com,+1-854-381-6900x594,M,35,Lake Joshua,Virginia,Montenegro,
+20,Dawn,Rodriguez,martha81@wright.com,,M,36,Courtneytown,West Virginia,Aruba,74.0
+21,Randy,Silva,ann26@hotmail.com,(204)892-1732,F,68,Dianeborough,Idaho,Ghana,
+22,Caitlyn,Hernandez,dean46@gonzalez-lawrence.com,(298)933-7564x49449,F,58,South Tommy,California,Chad,
+23,Timothy,Joseph,christophermoore@yahoo.com,(491)056-5023,M,45,Lake Taylor,Kansas,Zimbabwe,
+24,Daniel,Gonzalez,hurleylinda@owens-herring.biz,066.643.4729x600,M,25,East Codystad,Missouri,Macao,
+25,Angela,Nguyen,christophersmall@johnson.com,047.316.8210,F,37,East Autumn,Nebraska,Australia,84.0
+26,Barbara,Woods,derekrodriguez@chapman.com,(544)770-8909x824,F,26,South Kimberlyfurt,New Hampshire,Latvia,
+27,Melissa,Mosley,marshdustin@gmail.com,,F,46,East Selenabury,Wyoming,Slovenia,
+28,Michelle,Singleton,nhill@gmail.com,101.251.2730x8085,F,65,West Ericfurt,New York,Iraq,
+29,Thomas,Randall,williamrodriguez@yahoo.com,537-443-2924,F,40,South Ashleymouth,Minnesota,Chad,82.0
+30,Monica,Finley,jamiehanna@scott.info,244.378.7847x415,F,32,Port Todd,Hawaii,Timor-Leste,61.0
+31,Jennifer,Brooks,sabrina50@gmail.com,003.109.3792x54596,F,33,Lake Stephanie,North Carolina,United Arab Emirates,96.0
+32,Maria,Anderson,marc66@browning.com,(722)865-5032x61794,M,60,Travisberg,Arkansas,Ghana,73.0
+33,Jeremy,Sloan,briannataylor@santos.com,+1-356-958-6090,F,33,Alvarezchester,West Virginia,Kenya,
+34,Kenneth,Peterson,pattonwilliam@yahoo.com,340-057-9477x1853,F,51,Christineport,Connecticut,Honduras,98.0
+35,Rick,Hunt,jeremycline@crawford.net,646-901-1992x24776,F,47,Sandyview,Nevada,Bangladesh,41.0
+36,Michael,Wu,cjordan@yahoo.com,6630472380,F,34,New Sharon,Pennsylvania,Syrian Arab Republic,
+37,Tiffany,Shepard,kevingill@mcdonald-williams.com,001-947-299-8480x282,M,33,Garciafort,New Hampshire,Latvia,44.0
+38,Erin,Williams,,(679)196-9298,M,44,Jamesstad,Alaska,Somalia,55.0
+39,Joseph,Clements,andrew78@hotmail.com,,M,62,East Elizabethfurt,South Carolina,Bhutan,77.0
+40,Nancy,English,nancywillis@duarte-perez.org,797-647-3794x991,M,37,New Zacharyport,Iowa,Turkmenistan,
+41,Christine,Holmes,jenkinsthomas@andrews.net,+1-877-474-2985,F,40,Lake Pamelabury,Connecticut,Kiribati,
+42,Wanda,Rivera,jamesbenjamin@avila-gilbert.info,383-801-7886,F,40,Ethanport,South Dakota,Japan,
+43,Steven,Underwood,cooperjulia@yahoo.com,4484712712,M,43,Port Davidfurt,Michigan,Pakistan,
+44,Heather,Fuller,codyking@hotmail.com,001-364-159-9334x652,F,58,Prestonfort,Florida,Philippines,85.0
+45,Kimberly,Strickland,myang@price-smith.info,(006)233-2722,M,36,Billmouth,Wyoming,Puerto Rico,
+46,James,Thomas,,+1-806-477-0128x2458,F,39,Port Megan,Idaho,United Arab Emirates,
+47,Jason,Fox,tannershelly@hotmail.com,700.228.7392,M,32,East April,Wisconsin,Latvia,49.0
+48,Mark,Long,andrew04@davis-carter.com,889.410.4072,F,54,Jenniferland,Idaho,Peru,92.0
+49,Kristin,Pace,,+1-525-772-0085x59360,F,18,New Robinmouth,Tennessee,Turkmenistan,76.0
+50,Ashley,Ward,shelby43@white-curtis.com,+1-684-856-4442,M,22,Garciaberg,Wyoming,Micronesia,
+51,Barbara,Carter,danielreed@yahoo.com,,M,18,New Benjamin,New Hampshire,Hong Kong,
+52,Mary,Thomas,myerssean@bentley-davis.org,050.776.5741,F,20,Aaronfurt,South Carolina,American Samoa,71.0
+53,Elizabeth,Dunn,,001-742-228-9142x30301,F,65,Jensenchester,Mississippi,Uganda,
+54,Nancy,Wells,andrea06@gmail.com,,M,32,Floresbury,Florida,Central African Republic,98.0
+55,Susan,Stewart,howardmaria@williams-stanton.com,263.149.7225x557,F,53,Hallshire,Vermont,Fiji,
+56,Allen,Morales,matthew55@hotmail.com,(132)969-1063,M,68,South Denisemouth,Louisiana,Panama,88.0
+57,Paul,Johnson,charles94@arellano-davis.com,0744402846,F,35,Cowantown,New York,Tanzania,
+58,Ashley,Scott,michael86@yang.com,+1-947-364-1669x792,F,28,Deborahfort,Alabama,Guinea-Bissau,48.0
+59,Andrea,Adams,vgoodman@gmail.com,110-161-5652,M,49,New Deborah,Utah,Marshall Islands,76.0
+60,Stephanie,Johns,kkrueger@walsh-watkins.info,2072250516,F,45,East Jeffrey,Maryland,Colombia,
+61,Brian,Arnold,mlittle@gmail.com,4547002785,F,32,Lake Conniemouth,Nebraska,Samoa,
+62,Brandy,Rodriguez,dthornton@norton.org,001-725-667-4906x770,F,58,New Mark,Alabama,Liberia,
+63,Destiny,Collier,melinda96@walters-hall.com,8045947062,M,53,Valerietown,Oklahoma,Saint Barthelemy,
+64,Jasmine,Black,fitzpatricknicholas@hotmail.com,136-972-4575,M,60,New Stephanie,Kentucky,Jamaica,
+65,Tyler,Williamson,parkerkayla@soto.com,(535)704-4430,M,68,Austinfurt,North Dakota,Ecuador,
+66,Brian,Barrett,iclay@scott.com,(379)233-1236x79991,F,44,New Johnport,Michigan,Kazakhstan,52.0
+67,Dana,Harvey,davidanna@gmail.com,001-685-361-1454x115,M,67,South Karen,Colorado,Bolivia,83.0
+68,Cody,Dunn,fullerrichard@yahoo.com,+1-946-250-4932x57359,F,66,Millerstad,Arizona,Faroe Islands,
+69,Brandon,Mcbride,moyertina@mckenzie-brock.com,+1-176-872-8038,F,61,Benjaminmouth,Pennsylvania,Haiti,48.0
+70,Matthew,Evans,larsonelaine@mcpherson.com,+1-861-453-3645x2645,F,54,Bakerchester,Minnesota,Montserrat,82.0
+71,Melissa,Nguyen,sallyhester@clark-campbell.net,233-153-3068x0110,F,53,Harperborough,Utah,Tajikistan,
+72,Steven,Smith,stephaniethompson@gmail.com,+1-160-279-5418x2216,M,57,Samanthaton,Alaska,Puerto Rico,
+73,Michael,Rodriguez,,598-354-0092x6801,F,57,South Davidmouth,Tennessee,Thailand,66.0
+74,John,Bishop,melissa93@yahoo.com,(329)179-6873,M,65,New Colleen,Illinois,Vietnam,
+75,Belinda,Waters,,8316612533,M,63,Christopherfurt,New Jersey,Indonesia,90.0
+76,Laurie,Gardner,charles71@stephens-alvarado.org,671-267-8380,F,43,Karinamouth,Illinois,Mauritania,65.0
+77,Maria,Mclaughlin,zacharyfisher@hotmail.com,6854069760,M,42,New Davidchester,Missouri,Ethiopia,57.0
+78,Michael,Rogers,woodrobert@james.net,034-428-6041x49474,F,18,Lake Thomasshire,Washington,Sao Tome and Principe,80.0
+79,Devin,Collins,stanleywarren@yahoo.com,640.692.7111x43866,F,45,Port Ronaldberg,Georgia,Albania,
+80,Matthew,Higgins,yrodriguez@gmail.com,386-196-5619,F,22,Sandraview,Texas,Dominican Republic,88.0
+81,Justin,Hickman,rrogers@gmail.com,342-753-3083,M,20,Lake Matthewport,Arizona,Argentina,45.0
+82,Amy,Reed,patrick95@bates.com,072.619.1746,F,53,East Rachel,Iowa,Palau,
+83,Annette,Robinson,marie22@yahoo.com,+1-255-116-6769x8535,F,33,Peterton,Oregon,Gambia,95.0
+84,Ronnie,Ferrell,,1198742148,F,63,North John,Texas,Burkina Faso,95.0
+85,Carolyn,Johnson,jamesjackson@yahoo.com,623-539-4891x81347,M,26,Berryborough,Maryland,France,98.0
+86,Miranda,Mccarthy,ahoward@acosta.info,671.637.1193x981,M,44,West Jennifer,New Jersey,United Arab Emirates,91.0
+87,Michael,Woodward,cheryl98@moore-sullivan.com,803-477-1244x022,M,24,Derrickburgh,Alabama,Aruba,
+88,James,Nguyen,mfigueroa@hotmail.com,920-406-0531,F,20,New Lindseyport,Nevada,Uzbekistan,
+89,Matthew,Young,tdaniels@gmail.com,979-937-3379x77847,M,53,North Richard,Kentucky,Mauritius,85.0
+90,Jared,Rasmussen,lyonsmicheal@goodwin.com,(077)980-5035x8861,M,61,Jimenezstad,New Mexico,Maldives,43.0
+91,Brandon,Hudson,kdiaz@salazar-parker.com,(807)627-1864x057,F,52,Port Calvinside,Montana,Vanuatu,
+92,Nancy,Larson,,879.236.3758,F,47,Lake James,Texas,Cameroon,57.0
+93,Vincent,Martinez,alvarezdonna@ray.info,001-587-233-5384x0603,F,30,South Gabrielaton,Hawaii,Falkland Islands (Malvinas),65.0
+94,Joanne,Bennett,james15@hoffman-matthews.com,249-514-1192,M,52,Angieview,Kentucky,Kuwait,
+95,Brandon,Adams,jenniferadkins@hotmail.com,089-911-8583x022,M,59,Williamsview,Rhode Island,Malawi,91.0
+96,Jennifer,Ayala,daniellehernandez@yahoo.com,,M,50,New Briannaside,Virginia,Belize,
+97,Ashley,Mercado,loweryaaron@moore.com,(677)488-9826,F,33,Port Morgan,Colorado,Bosnia and Herzegovina,
+98,Alexander,Hull,,+1-234-177-5307x952,F,49,Jenkinston,North Dakota,Comoros,75.0
+99,Russell,Ramos,charlesschwartz@hotmail.com,(160)181-7947,M,37,North Lisa,Georgia,Russian Federation,
+100,Bruce,Williams,ulewis@burton.com,001-917-366-4494,M,63,Sherriberg,Kansas,Falkland Islands (Malvinas),40.0
